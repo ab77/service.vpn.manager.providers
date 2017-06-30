@@ -1,7 +1,8 @@
 1493571097
-400 5
+400 7
 LOCATIONS.txt
 TEMPLATE.txt
+ta.key
 ca.crt
 user.crt
 user.key
