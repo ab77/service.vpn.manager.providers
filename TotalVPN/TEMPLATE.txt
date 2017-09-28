@@ -10,5 +10,5 @@ script-security 3
 persist-key
 persist-tun
 auth-user-pass #PASS
-explicit-exit-notify 2
+#REMOVE1explicit-exit-notify 2
 ca #CERT

@@ -7,6 +7,7 @@ comp-lzo adaptive
 ca #CERT
 dev tun
 tls-client
+reneg-sec 0
 script-security 2
 cipher AES-256-CBC
 mute 10
@@ -17,5 +18,5 @@ persist-key
 persist-tun
 remote-cert-tls server
 verb 1
-explicit-exit-notify 2
+#REMOVE1explicit-exit-notify 2
 mssfix
