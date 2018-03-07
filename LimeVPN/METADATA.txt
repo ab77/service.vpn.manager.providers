@@ -1,5 +1,0 @@
-1504990614
-400 4
-LOCATIONS.txt
-TEMPLATE.txt
-ca.crt
