@@ -14,6 +14,7 @@ mute 20
 route-method exe
 route-delay 2
 route 0.0.0.0 0.0.0.0
+tls-cipher "DEFAULT:@SECLEVEL=0"
 auth-user-pass #PASS
 #REMOVE2explicit-exit-notify 2
 #REMOVE1float
