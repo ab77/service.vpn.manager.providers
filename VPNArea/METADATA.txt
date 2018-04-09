@@ -1,9 +1,0 @@
-1507623400
-400 8
-LOCATIONS.txt
-TEMPLATE.txt
-ca.vpnarea.crt
-user.crt
-user.key
-ta.key
-ca.colibri.crt
