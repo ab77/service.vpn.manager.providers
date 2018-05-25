@@ -5,13 +5,20 @@
             "value": ["*"]
         },
         {
-            "name": "group1",
+            "name": "vpn",
             "value": [
-                "IPVanish",
-                "NordVPN",
+                "blackbox",
+                "ExpressVPN",
                 "HMA",
+                "IPVanish",
+                "IVPN",
+                "NordVPN",
                 "PIA",
-                "ExpressVPN"
+                "ProtonVPN",
+                "PureVPN",
+                "SaferVPN",
+                "VyprVPN",
+                "Windscribe"
             ]
         },
         {
