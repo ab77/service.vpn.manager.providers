@@ -1,0 +1,15 @@
+client
+dev tun
+proto #PROTO
+remote #SERVER #PORT
+auth-user-pass #PASS
+persist-tun
+persist-key
+tun-ipv6
+cipher AES-256-CBC
+auth SHA512
+script-security 2
+tls-client
+key-direction 1
+ca #CERT
+tls-auth #TLSKEY
