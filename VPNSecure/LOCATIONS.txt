@@ -126,7 +126,7 @@ United States 8 (UDP),us8.isponeder.com,udp,1191
 United States 8 (TCP),tcp-us8.isponeder.com,tcp,443
 United States 9 (UDP),us9.isponeder.com,udp,1191
 United States 9 (TCP),tcp-us9.isponeder.com,tcp,443
-Ustream 1 (UDP),ustream1.isponeder.com,udp,1191
+Ustream 1 (UDP),ustream1.isponeder.com,udp,1281
 Ustream 1 (TCP),udp-ustream1.isponeder.com,tcp,443
 Vietnam 1 (UDP),vn1.isponeder.com,udp,1191
 Vietnam 1 (TCP),tcp-vn1.isponeder.com,tcp,443
