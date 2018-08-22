@@ -452,6 +452,8 @@ USA - Kansas Wichita (TCP),ks.us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USER
 USA - Kansas Wichita (UDP),ks.us.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Kentucky Louisville (TCP),ky.us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Kentucky Louisville (UDP),ky.us.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+USA - Liberty Island (TCP),liberty.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+USA - Liberty Island (UDP),liberty.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Louisiana New Orleans (TCP),la.us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Louisiana New Orleans (UDP),la.us.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Maine Bath (TCP),me.us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
