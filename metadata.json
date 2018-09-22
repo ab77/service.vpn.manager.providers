@@ -28,6 +28,10 @@
         {
             "name": "group3",
             "value": ["NordVPN"]
+        },
+        {
+            "name": "test",
+            "value": ["VanishedVPN"]
         }
     ],
     "affiliate_links": [
