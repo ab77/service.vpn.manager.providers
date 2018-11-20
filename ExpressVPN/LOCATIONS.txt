@@ -62,8 +62,6 @@ Denmark (UDP),denmark-ca-version-2.expressnetw.com,udp,1195
 Denmark (TCP),denmark-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 Ecuador (UDP),ecuador-ca-version-2.expressnetw.com,udp,1195
 Ecuador (TCP),ecuador-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
-Egypt (UDP),egypt-ca-version-2.expressnetw.com,udp,1195
-Egypt (TCP),egypt-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 Estonia (UDP),estonia-ca-version-2.expressnetw.com,udp,1195
 Estonia (TCP),estonia-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 Finland (UDP),finland-ca-version-2.expressnetw.com,udp,1195
@@ -80,6 +78,8 @@ Germany - Frankfurt - 1 (UDP),germany-frankfurt-1-ca-version-2.expressnetw.com,u
 Germany - Frankfurt - 1 (TCP),germany-frankfurt-1-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 Germany - Frankfurt - 2 (UDP),germany-frankfurt-2-ca-version-2.expressnetw.com,udp,1195
 Germany - Frankfurt - 2 (TCP),germany-frankfurt-2-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
+Germany - Nuremberg (UDP),germany-nuremberg-ca-version-2.expressnetw.com,udp,1195
+Germany - Nuremberg (TCP),germany-nuremberg-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 Greece (UDP),greece-ca-version-2.expressnetw.com,udp,1195
 Greece (TCP),greece-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 Guatemala (UDP),guatemala-ca-version-2.expressnetw.com,udp,1195
@@ -88,6 +88,8 @@ Hong Kong - 1 (UDP),hongkong-3-ca-version-2.expressnetw.com,udp,1195
 Hong Kong - 1 (TCP),hongkong-3-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 Hong Kong - 2 (UDP),hongkong-2-ca-version-2.expressnetw.com,udp,1195
 Hong Kong - 2 (TCP),hongkong-2-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
+Hong Kong - 4 (UDP),hongkong4-ca-version-2.expressnetw.com,udp,1195
+Hong Kong - 4 (TCP),hongkong4-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 Hungary (UDP),hungary-ca-version-2.expressnetw.com,udp,1195
 Hungary (TCP),hungary-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 Iceland (UDP),iceland-ca-version-2.expressnetw.com,udp,1195
@@ -146,20 +148,24 @@ Mongolia (UDP),mongolia-ca-version-2.expressnetw.com,udp,1195
 Mongolia (TCP),mongolia-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 Montenegro (UDP),montenegro-ca-version-2.expressnetw.com,udp,1195
 Montenegro (TCP),montenegro-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
-Netherlands - Amsterdam - 2 (UDP),netherlands-amsterdam-2-ca-version-2.expressnetw.com,udp,1195
-Netherlands - Amsterdam - 2 (TCP),netherlands-amsterdam-2-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
+Myanmar (UDP),myanmar-ca-version-2.expressnetw.com,udp,1195
+Myanmar (TCP),myanmar-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
+Nepal (UDP),nepal-ca-version-2.expressnetw.com,udp,1195
+Nepal (TCP),nepal-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 Netherlands - Amsterdam (UDP),netherlands-amsterdam-ca-version-2.expressnetw.com,udp,1195
 Netherlands - Amsterdam (TCP),netherlands-amsterdam-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 Netherlands - Rotterdam (UDP),netherlands-rotterdam-ca-version-2.expressnetw.com,udp,1195
 Netherlands - Rotterdam (TCP),netherlands-rotterdam-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
+Netherlands - The Hague (UDP),netherlands-thehague-ca-version-2.expressnetw.com,udp,1195
+Netherlands - The Hague (TCP),netherlands-thehague-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 New Zealand (UDP),newzealand-ca-version-2.expressnetw.com,udp,1195
 New Zealand (TCP),newzealand-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 Norway (UDP),norway-ca-version-2.expressnetw.com,udp,1195
 Norway (TCP),norway-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
+Pakistan (UDP),pakistan-ca-version-2.expressnetw.com,udp,1195
+Pakistan (TCP),pakistan-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 Panama (UDP),panama-ca-version-2.expressnetw.com,udp,1195
 Panama (TCP),panama-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
-Peru (UDP),peru-ca-version-2.expressnetw.com,udp,1195
-Peru (TCP),peru-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 Philippines Via Singapore (UDP),ph-via-sing-ca-version-2.expressnetw.com,udp,1195
 Philippines Via Singapore (TCP),ph-via-sing-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 Poland (UDP),poland-ca-version-2.expressnetw.com,udp,1195
@@ -176,18 +182,24 @@ Singapore - CBD (UDP),singapore-cbd-ca-version-2.expressnetw.com,udp,1195
 Singapore - CBD (TCP),singapore-cbd-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 Singapore - Jurong (UDP),singapore-jurong-ca-version-2.expressnetw.com,udp,1195
 Singapore - Jurong (TCP),singapore-jurong-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
-Singapore - Marina Bay (UDP),singapore-marinabay-ca-version-2.expressnetw.com,udp,1195
-Singapore - Marina Bay (TCP),singapore-marinabay-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 Slovakia (UDP),slovakia-ca-version-2.expressnetw.com,udp,1195
 Slovakia (TCP),slovakia-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 Slovenia (UDP),slovenia-ca-version-2.expressnetw.com,udp,1195
 Slovenia (TCP),slovenia-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 South Africa (UDP),southafrica-ca-version-2.expressnetw.com,udp,1195
 South Africa (TCP),southafrica-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
+South Korea - 2 (UDP),southkorea2-ca-version-2.expressnetw.com,udp,1195
+South Korea - 2 (TCP),southkorea2-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 South Korea (UDP),southkorea-ca-version-2.expressnetw.com,udp,1195
 South Korea (TCP),southkorea-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 Spain (UDP),spain-ca-version-2.expressnetw.com,udp,1195
 Spain (TCP),spain-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
+Spain - Barcelona (UDP),spain-barcelona-ca-version-2.expressnetw.com,udp,1195
+Spain - Barcelona (TCP),spain-barcelona-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
+Sri Lanka (UDP),srilanka-ca-version-2.expressnetw.com,udp,1195
+Sri Lanka (TCP),srilanka-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
+Sweden - 2 (UDP),sweden-2-ca-version-2.expressnetw.com,udp,1195
+Sweden - 2 (TCP),sweden-2-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 Sweden (UDP),sweden-ca-version-2.expressnetw.com,udp,1195
 Sweden (TCP),sweden-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 Switzerland - 2 (UDP),switzerland-2-ca-version-2.expressnetw.com,udp,1195
@@ -200,20 +212,20 @@ Thailand (UDP),thailand-ca-version-2.expressnetw.com,udp,1195
 Thailand (TCP),thailand-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 Turkey (UDP),turkey-ca-version-2.expressnetw.com,udp,1195
 Turkey (TCP),turkey-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
-Ukraine (UDP),ukraine-ca-version-2.expressnetw.com,udp,1195
-Ukraine (TCP),ukraine-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 UK - Berkshire - 2 (UDP),uk-berkshire-2-ca-version-2.expressnetw.com,udp,1195
 UK - Berkshire - 2 (TCP),uk-berkshire-2-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 UK - Berkshire (UDP),uk-berkshire-ca-version-2.expressnetw.com,udp,1195
 UK - Berkshire (TCP),uk-berkshire-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
-UK - Chessington (UDP),uk-chessington-ca-version-2.expressnetw.com,udp,1195
-UK - Chessington (TCP),uk-chessington-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
+UK - Docklands (UDP),uk-docklands-ca-version-2.expressnetw.com,udp,1195
+UK - Docklands (TCP),uk-docklands-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
+UK - East London (UDP),uk-east-london-ca-version-2.expressnetw.com,udp,1195
+UK - East London (TCP),uk-east-london-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 UK - Kent (UDP),uk-kent-ca-version-2.expressnetw.com,udp,1195
 UK - Kent (TCP),uk-kent-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 UK - London (UDP),uk-london-ca-version-2.expressnetw.com,udp,1195
 UK - London (TCP),uk-london-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
-UK - Maidenhead (UDP),uk-maidenhead-ca-version-2.expressnetw.com,udp,1195
-UK - Maidenhead (TCP),uk-maidenhead-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
+Ukraine (UDP),ukraine-ca-version-2.expressnetw.com,udp,1195
+Ukraine (TCP),ukraine-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 Uruguay (UDP),uruguay-ca-version-2.expressnetw.com,udp,1195
 Uruguay (TCP),uruguay-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 USA - Atlanta (UDP),usa-atlanta-ca-version-2.expressnetw.com,udp,1195
@@ -228,20 +240,22 @@ USA - Dallas (UDP),usa-dallas-ca-version-2.expressnetw.com,udp,1195
 USA - Dallas (TCP),usa-dallas-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 USA - Denver (UDP),usa-denver-ca-version-2.expressnetw.com,udp,1195
 USA - Denver (TCP),usa-denver-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
-USA - Hollywood (UDP),usa-hollywood-ca-version-2.expressnetw.com,udp,1195
-USA - Hollywood (TCP),usa-hollywood-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
-USA - Las Vegas (UDP),usa-lasvegas-ca-version-2.expressnetw.com,udp,1195
-USA - Las Vegas (TCP),usa-lasvegas-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
+USA - Kansas City (UDP),usa-kansascity-ca-version-2.expressnetw.com,udp,1195
+USA - Kansas City (TCP),usa-kansascity-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 USA - Los Angeles - 1 (UDP),usa-losangeles-1-ca-version-2.expressnetw.com,udp,1195
 USA - Los Angeles - 1 (TCP),usa-losangeles-1-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 USA - Los Angeles - 2 (UDP),usa-losangeles-2-ca-version-2.expressnetw.com,udp,1195
 USA - Los Angeles - 2 (TCP),usa-losangeles-2-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 USA - Los Angeles - 3 (UDP),usa-losangeles-3-ca-version-2.expressnetw.com,udp,1195
 USA - Los Angeles - 3 (TCP),usa-losangeles-3-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
+USA - Los Angeles - 4 (UDP),usa-los-angeles-4-ca-version-2.expressnetw.com,udp,1195
+USA - Los Angeles - 4 (TCP),usa-los-angeles-4-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 USA - Los Angeles (UDP),usa-losangeles-ca-version-2.expressnetw.com,udp,1195
 USA - Los Angeles (TCP),usa-losangeles-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 USA - Miami (UDP),usa-miami-ca-version-2.expressnetw.com,udp,1195
 USA - Miami (TCP),usa-miami-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
+USA - Minneapolis (UDP),usa-minneapolis-ca-version-2.expressnetw.com,udp,1195
+USA - Minneapolis (TCP),usa-minneapolis-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 USA - New Jersey - 1 (UDP),usa-newjersey-1-ca-version-2.expressnetw.com,udp,1195
 USA - New Jersey - 1 (TCP),usa-newjersey-1-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 USA - New Jersey - 3 (UDP),usa-newjersey-3-ca-version-2.expressnetw.com,udp,1195
@@ -250,8 +264,10 @@ USA - New York - 2 (UDP),us-new-york-2-ca-version-2.expressnetw.com,udp,1195
 USA - New York - 2 (TCP),us-new-york-2-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 USA - New York (UDP),usa-newyork-ca-version-2.expressnetw.com,udp,1195
 USA - New York (TCP),usa-newyork-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
-USA - Santa Clara (UDP),usa-santaclara-ca-version-2.expressnetw.com,udp,1195
-USA - Santa Clara (TCP),usa-santaclara-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
+USA - Phoenix (UDP),usa-phoenix-ca-version-2.expressnetw.com,udp,1195
+USA - Phoenix (TCP),usa-phoenix-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
+USA - Salt Lake City (UDP),usa-saltlakecity-ca-version-2.expressnetw.com,udp,1195
+USA - Salt Lake City (TCP),usa-saltlakecity-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 USA - San Francisco (UDP),usa-sanfrancisco-ca-version-2.expressnetw.com,udp,1195
 USA - San Francisco (TCP),usa-sanfrancisco-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 USA - San Jose (UDP),usa-sanjose-ca-version-2.expressnetw.com,udp,1195
@@ -260,12 +276,12 @@ USA - Seattle (UDP),usa-seattle-ca-version-2.expressnetw.com,udp,1195
 USA - Seattle (TCP),usa-seattle-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 USA - Tampa - 1 (UDP),usa-tampa-1-ca-version-2.expressnetw.com,udp,1195
 USA - Tampa - 1 (TCP),usa-tampa-1-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
+USA - Virginia (UDP),usa-virginia-ca-version-2.expressnetw.com,udp,1195
+USA - Virginia (TCP),usa-virginia-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 USA - Washington DC - 2 (UDP),usa-washingtondc-2-ca-version-2.expressnetw.com,udp,1195
 USA - Washington DC - 2 (TCP),usa-washingtondc-2-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 USA - Washington DC (UDP),usa-washingtondc-ca-version-2.expressnetw.com,udp,1195
 USA - Washington DC (TCP),usa-washingtondc-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
-Uzbekistan (UDP),uzbekistan-ca-version-2.expressnetw.com,udp,1195
-Uzbekistan (TCP),uzbekistan-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 Venezuela (UDP),venezuela-ca-version-2.expressnetw.com,udp,1195
 Venezuela (TCP),venezuela-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 Vietnam (UDP),vietnam-ca-version-2.expressnetw.com,udp,1195
