@@ -29,6 +29,10 @@
             "name": "group3",
             "value": ["NordVPN"]
         },
+           {
+            "name": "privacy",
+            "value": ["NordVPN"]
+        },
         {
             "name": "test",
             "value": ["VanishedVPN"]
