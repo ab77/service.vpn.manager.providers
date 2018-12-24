@@ -34,8 +34,8 @@
             "value": ["NordVPN"]
         },
         {
-            "name": "test",
-            "value": ["VanishedVPN"]
+            "name": "express",
+            "value": ["ExpressVPN"]
         }
     ],
     "affiliate_links": [
