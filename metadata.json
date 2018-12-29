@@ -29,9 +29,13 @@
             "name": "group3",
             "value": ["NordVPN"]
         },
-           {
+        {
             "name": "privacy",
             "value": ["NordVPN"]
+        },
+        {
+            "name": "access",
+            "value": ["PIA"]
         },
         {
             "name": "express",
