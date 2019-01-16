@@ -40,7 +40,7 @@
         {
             "name": "express",
             "value": ["ExpressVPN"]
-        }
+        },
         {
             "name": "goldenfrog",
             "value": ["VyprVPN"]
