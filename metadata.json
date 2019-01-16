@@ -43,7 +43,10 @@
         },
         {
             "name": "goldenfrog",
-            "value": ["VyprVPN"]
+            "value": [
+                "VyprVPN",
+                "Giganews"
+            ]
         }
     ],
     "affiliate_links": [
