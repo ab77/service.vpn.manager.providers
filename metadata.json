@@ -41,6 +41,10 @@
             "name": "express",
             "value": ["ExpressVPN"]
         }
+        {
+            "name": "goldenfrog",
+            "value": ["VyprVPN"]
+        }
     ],
     "affiliate_links": [
         {
