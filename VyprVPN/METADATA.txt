@@ -2,7 +2,5 @@
 400 5
 LOCATIONS VyprVPN Default Encryption.txt
 LOCATIONS VyprVPN Strong Encryption.txt
-LOCATIONS Giganews Default Encryption.txt
-LOCATIONS Giganews Strong Encryption.txt
 TEMPLATE.txt
 ca.crt
