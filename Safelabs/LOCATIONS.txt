@@ -1,1 +1,1 @@
-global.safelabs.net,udp,1194,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+US,global.safelabs.net,udp,1194,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
