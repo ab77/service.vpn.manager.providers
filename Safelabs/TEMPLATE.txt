@@ -7,7 +7,6 @@ resolv-retry infinite
 nobind
 persist-key
 persist-tun
-client
 verb 3
 remote-cert-tls server
 auth-nocache
