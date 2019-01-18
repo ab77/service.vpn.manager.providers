@@ -1,17 +1,18 @@
-dev tun
+client
 proto #PROTO
 remote #SERVER #PORT
-cipher AES-128-CBC
-auth SHA1
+auth-user-pass #PASS
+dev tun
 resolv-retry infinite
 nobind
 persist-key
 persist-tun
 client
 verb 3
-auth-user-pass
 remote-cert-tls server
 auth-nocache
+cipher AES-128-CBC
+auth SHA1
 cert #USERCERT
 key #USERKEY
 ca #CERT
