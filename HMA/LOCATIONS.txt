@@ -70,10 +70,12 @@ Cambodia - Phnom Penh (TCP),kh.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKE
 Cambodia - Phnom Penh (UDP),kh.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Cameroon - Yaounde (TCP),cm.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Cameroon - Yaounde (UDP),cm.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-Canada - British Columbia Vancouver (TCP),ca.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-Canada - British Columbia Vancouver (UDP),ca.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Canada - Montreal (TCP),mtr-ca.prcdn.net,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Canada - Montreal (UDP),mtr-ca.prcdn.net,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Canada - Toronto (TCP),tor-ca.prcdn.net,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Canada - Toronto (UDP),tor-ca.prcdn.net,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Canada - BC Vancouver (TCP),van-ca.prcdn.net,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Canada - BC Vancouver (UDP),van-ca.prcdn.net,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Cape Verde - Cidade Velha (TCP),cv.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Cape Verde - Cidade Velha (UDP),cv.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Cayman Islands - Spot Bay (TCP),ky.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
