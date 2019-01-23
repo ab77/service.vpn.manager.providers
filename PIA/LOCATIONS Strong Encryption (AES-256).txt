@@ -68,10 +68,16 @@ US California (UDP),us-california.privateinternetaccess.com,udp,1197,#REMOVE=2 #
 US California (TCP),us-california.privateinternetaccess.com,tcp,443,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 US Chicago (UDP),us-chicago.privateinternetaccess.com,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 US Chicago (TCP),us-chicago.privateinternetaccess.com,tcp,443,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
+US Denver (UDP),us-denver.privateinternetaccess.com,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
+US Denver (TCP),us-denver.privateinternetaccess.com,tcp,443,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 US East (UDP),us-east.privateinternetaccess.com,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 US East (TCP),us-east.privateinternetaccess.com,tcp,443,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 US Florida (UDP),us-florida.privateinternetaccess.com,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 US Florida (TCP),us-florida.privateinternetaccess.com,tcp,443,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
+US Houston (UDP),us-houston.privateinternetaccess.com,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
+US Houston (TCP),us-houston.privateinternetaccess.com,tcp,443,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
+US Las Vegas (UDP),us-lasvegas.privateinternetaccess.com,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
+US Las Vegas (TCP),us-lasvegas.privateinternetaccess.com,tcp,443,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 US Midwest (UDP),us-midwest.privateinternetaccess.com,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 US Midwest (TCP),us-midwest.privateinternetaccess.com,tcp,443,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 US New York City (UDP),us-newyorkcity.privateinternetaccess.com,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
@@ -82,5 +88,7 @@ US Silicon Valley (UDP),us-siliconvalley.privateinternetaccess.com,udp,1197,#REM
 US Silicon Valley (TCP),us-siliconvalley.privateinternetaccess.com,tcp,443,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 US Texas (UDP),us-texas.privateinternetaccess.com,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 US Texas (TCP),us-texas.privateinternetaccess.com,tcp,443,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
+US Washington DC (UDP),us-washingtondc.privateinternetaccess.com,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
+US Washington DC (TCP),us-washingtondc.privateinternetaccess.com,tcp,443,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 US West (UDP),us-west.privateinternetaccess.com,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 US West (TCP),us-west.privateinternetaccess.com,tcp,443,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
