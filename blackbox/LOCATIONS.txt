@@ -8,5 +8,5 @@ ES - Spain (UDP),es.blackbox.unzoner.com,udp,1194
 ES - Spain (TCP),es.blackbox.unzoner.com,tcp,1194,#REMOVE=1
 UM - United States Minor Outlying Islands (UDP),um.blackbox.unzoner.com,udp,1194
 UM - United States Minor Outlying Islands (TCP),um.blackbox.unzoner.com,tcp,1194,#REMOVE=1
-IO - British Ocean Indian Territory (UDP),io.blackbox.unzoner.com,udp,1194
-IO - British Ocean Indian Territory (TCP),io.blackbox.unzoner.com,tcp,1194,#REMOVE=1
+IO - British Indian Ocean Territory (UDP),io.blackbox.unzoner.com,udp,1194
+IO - British Indian Ocean Territory (TCP),io.blackbox.unzoner.com,tcp,1194,#REMOVE=1
