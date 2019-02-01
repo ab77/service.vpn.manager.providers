@@ -14,16 +14,18 @@ Angola - Luanda (TCP),ao.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PAT
 Angola - Luanda (UDP),ao.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Anguilla - The Valley (TCP),ai.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Anguilla - The Valley (UDP),ai.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-Antiguaand Barbuda - Saint John's (TCP),ag.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-Antiguaand Barbuda - Saint John's (UDP),ag.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Antigua and Barbuda - Saint John's (TCP),ag.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Antigua and Barbuda - Saint John's (UDP),ag.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Argentina - Buenos Aires (TCP),ar.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Argentina - Buenos Aires (UDP),ar.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Armenia - Tsaghkadzor (TCP),am.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Armenia - Tsaghkadzor (UDP),am.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Aruba - Palm Beach (TCP),aw.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Aruba - Palm Beach (UDP),aw.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-Australia - New South Wales Sydney (TCP),au.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-Australia - New South Wales Sydney (UDP),au.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Australia - Melbourne (TCP),mel-au.prcdn.net,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Australia - Melbourne (UDP),mel-au.prcdn.net,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Australia - Sydney (TCP),syd-au.prcdn.net,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Australia - Sydney (UDP),syd-au.prcdn.net,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Austria - Carinthia Klagenfurt (TCP),at.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Austria - Carinthia Klagenfurt (UDP),at.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Azerbaijan - Qusar (TCP),az.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
@@ -54,8 +56,8 @@ Bosnia - Sarajevo (TCP),ba.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#P
 Bosnia - Sarajevo (UDP),ba.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Botswana - Gaborone (TCP),bw.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Botswana - Gaborone (UDP),bw.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-Brazil - Joao Pessoa (TCP),br.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-Brazil - Joao Pessoa (UDP),br.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Brazil - Rio de Janeiro (TCP),rio-br.prcdn.net,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Brazil - Rio de Janeiro (UDP),rio-br.prcdn.net,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 British Virgin Islands - Tortola (TCP),vg.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 British Virgin Islands - Tortola (UDP),vg.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Brunei - Jerudong (TCP),bn.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
@@ -86,8 +88,8 @@ Chad - N' Djamena (TCP),td.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#P
 Chad - N' Djamena (UDP),td.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Chile - Santiago (TCP),cl.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Chile - Santiago (UDP),cl.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-China - Sichuan Sheng Chengdu (TCP),cn.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-China - Sichuan Sheng Chengdu (UDP),cn.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+China - Bejing (TCP),bjs-cn.prcdn.net,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+China - Bejing (UDP),bjs-cn.prcdn.net,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Christmas Island - Flying Fish Cove (TCP),cx.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Christmas Island - Flying Fish Cove (UDP),cx.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Cocos Islands - West Island (TCP),cc.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
@@ -96,8 +98,10 @@ Colombia - San Andres (TCP),co.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKE
 Colombia - San Andres (UDP),co.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Comoros - Ouani (TCP),km.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Comoros - Ouani (UDP),km.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-Congo - Kinshasa (TCP),cd.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-Congo - Kinshasa (UDP),cd.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Congo - Brazzaville (TCP),bzv-cg.prcdn.net,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Congo - Brazzaville (UDP),bzv-cg.prcdn.net,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Congo - Kinshasa (TCP),fih-cd.prcdn.net,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Congo - Kinshasa (UDP),fih-cd.prcdn.net,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Cook Islands - Avarua (TCP),ck.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Cook Islands - Avarua (UDP),ck.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Costa Rica - San Jose (TCP),cr.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
@@ -114,6 +118,8 @@ Czech Republic - Prague (TCP),cz.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USER
 Czech Republic - Prague (UDP),cz.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Denmark - Copenhagen (TCP),dk.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Denmark - Copenhagen (UDP),dk.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Djibouti - Djibouti (TCP),jib-dj.prcdn.net,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Djibouti - Djibouti (UDP),jib-dj.prcdn.net,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Dominica - Marigot (TCP),dm.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Dominica - Marigot (UDP),dm.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Dominican Republic - Punta Cana (TCP),do.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
@@ -148,8 +154,10 @@ Gambia - Serekunda (TCP),gm.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#
 Gambia - Serekunda (UDP),gm.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Georgia - Tbilisi (TCP),ge.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Georgia - Tbilisi (UDP),ge.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-Germany - Hesse Frankfurt (TCP),de.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-Germany - Hesse Frankfurt (UDP),de.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Germany - Berlin (TCP),ber-de.prcdn.net,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Germany - Berlin (UDP),ber-de.prcdn.net,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Germany - Frankfurt (TCP),fra-de.prcdn.net,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Germany - Frankfurt (UDP),fra-de.prcdn.net,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Ghana - Accra (TCP),gh.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Ghana - Accra (UDP),gh.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Gibraltar - Catalan (TCP),gi.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
@@ -246,6 +254,8 @@ Mali - Bamako (TCP),ml.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHu
 Mali - Bamako (UDP),ml.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Malta - Cospicua (TCP),mt.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Malta - Cospicua (UDP),mt.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Mauritania - Nouakchott (TCP),nkc-mr.prcdn.net,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Mauritania - Nouakchott (UDP),nkc-mr.prcdn.net,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Mauritius - Port Louis (TCP),mu.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Mauritius - Port Louis (UDP),mu.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Mexico - Sinaloa Mazatlan (TCP),mx.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
@@ -274,6 +284,8 @@ Nepal - Janakpur (TCP),np.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PA
 Nepal - Janakpur (UDP),np.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Netherlands - Amsterdam (TCP),nl.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Netherlands - Amsterdam (UDP),nl.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Netherlands - Virtual US in Amsterdam (TCP),us-ams-nl.prcdn.net,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Netherlands - Virtual US in Amsterdam (UDP),us-ams-nl.prcdn.net,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 New Caledonia - Noumea (TCP),nc.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 New Caledonia - Noumea (UDP),nc.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 New Zealand - Auckland (TCP),nz.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
@@ -330,34 +342,48 @@ Romania - Bucharest (TCP),ro.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=
 Romania - Bucharest (UDP),ro.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Russia - Moscow (TCP),ru.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Russia - Moscow (UDP),ru.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Russia - Saint Petersburg (TCP),led-ru.prcdn.net,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Russia - Saint Petersburg (UDP),led-ru.prcdn.net,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Rwanda - Kigali (TCP),rw.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Rwanda - Kigali (UDP),rw.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Saint Helena - Tristan Da Cunha (TCP),sh.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Saint Helena - Tristan Da Cunha (UDP),sh.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-Saint Kittsand Nevis - Basseterre (TCP),kn.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-Saint Kittsand Nevis - Basseterre (UDP),kn.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Saint Kitts and Nevis - Basseterre (TCP),kn.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Saint Kitts and Nevis - Basseterre (UDP),kn.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Saint Lucia - Gros Islet (TCP),lc.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Saint Lucia - Gros Islet (UDP),lc.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-Saint Pierreand Miquelon - Saint- Pierre (TCP),pm.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-Saint Pierreand Miquelon - Saint- Pierre (UDP),pm.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-Saint Vincentandthe Grenadines - Kingstown (TCP),vc.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-Saint Vincentandthe Grenadines - Kingstown (UDP),vc.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Saint Pierre and Miquelon - Saint- Pierre (TCP),pm.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Saint Pierre and Miquelon - Saint- Pierre (UDP),pm.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Saint Vincent and the Grenadines - Kingstown (TCP),vc.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Saint Vincent and the Grenadines - Kingstown (UDP),vc.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Samoa - Matatufu (TCP),ws.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Samoa - Matatufu (UDP),ws.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 San Marino - San Marino (TCP),sm.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 San Marino - San Marino (UDP),sm.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-Sao Tomeand Principe - Sao Tome (TCP),st.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-Sao Tomeand Principe - Sao Tome (UDP),st.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Sao Tome and Principe - Sao Tome (TCP),st.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Sao Tome and Principe - Sao Tome (UDP),st.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Saudi Arabia - Riyadh (TCP),sa.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Saudi Arabia - Riyadh (UDP),sa.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Senegal - Dakar (TCP),sn.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Senegal - Dakar (UDP),sn.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Serbia - Belgrade (TCP),rs.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Serbia - Belgrade (UDP),rs.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Sierra Leone - Freetown (TCP),fna-sl.prcdn.net,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Sierra Leone - Freetown (UDP),fna-sl.prcdn.net,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Singapore - Singapore (TCP),sin-sg.prcdn.net,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Singapore - Singapore (UDP),sin-sg.prcdn.net,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Singapore - Virtual GB in Singapore (TCP),gb-sin-sg.prcdn.net,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Singapore - Virtual GB in Singapore (UDP),gb-sin-sg.prcdn.net,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Singapore - Virtual US in Singapore (TCP),us-sin-sg.prcdn.net,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Singapore - Virtual US in Singapore (UDP),us-sin-sg.prcdn.net,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Slovakia - Bratislava (TCP),sk.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Slovakia - Bratislava (UDP),sk.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Slovenia - Vrhnika (TCP),si.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Slovenia - Vrhnika (UDP),si.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Spain - Barcelona (TCP),bcn-es.prcdn.net,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Spain - Barcelona (UDP),bcn-es.prcdn.net,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Spain - Madrid (TCP),mad-es.prcdn.net,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Spain - Madrid (UDP),mad-es.prcdn.net,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Solomon Islands - Honiara (TCP),sb.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Solomon Islands - Honiara (UDP),sb.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Somalia - Afgooye (TCP),so.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
@@ -398,26 +424,32 @@ Tokelau - Atafu (TCP),tk.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PAT
 Tokelau - Atafu (UDP),tk.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Tonga - Nukualofa (TCP),to.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Tonga - Nukualofa (UDP),to.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-Trinidadand Tobago - San Fernando (TCP),tt.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-Trinidadand Tobago - San Fernando (UDP),tt.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Trinidad and Tobago - San Fernando (TCP),tt.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Trinidad and Tobago - San Fernando (UDP),tt.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Tunisia - Mahdia (TCP),tn.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Tunisia - Mahdia (UDP),tn.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Turkey - Istanbul (TCP),tr.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Turkey - Istanbul (UDP),tr.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Turkmenistan - Ashgabat (TCP),tm.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Turkmenistan - Ashgabat (UDP),tm.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-Turksand Caicos Islands - Balfour Town (TCP),tc.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-Turksand Caicos Islands - Balfour Town (UDP),tc.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Turks and Caicos Islands - Balfour Town (TCP),tc.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+Turks and Caicos Islands - Balfour Town (UDP),tc.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Tuvalu - Vaitupu (TCP),tv.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Tuvalu - Vaitupu (UDP),tv.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Uganda - Kampala (TCP),ug.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Uganda - Kampala (UDP),ug.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+UK - Donkey Town (TCP),dnk-gb.prcdn.net,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+UK - Donkey Town (UDP),dnk-gb.prcdn.net,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 UK - London (TCP),london.gb.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 UK - London (UDP),london.gb.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 UK - Scotland Glasgow (TCP),scotland.gb.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 UK - Scotland Glasgow (UDP),scotland.gb.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-UK - (TCP),gb.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-UK - (UDP),gb.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+UK - Virtual PT in London (TCP),pt-lon-gb.prcdn.net,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+UK - Virtual PT in London (UDP),pt-lon-gb.prcdn.net,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+UK - Virtual US in London (TCP),us-lon-gb.prcdn.net,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+UK - Virtual US in London (UDP),us-lon-gb.prcdn.net,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+UK - UK (TCP),gb.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+UK - UK (UDP),gb.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Ukraine - Odessa (TCP),ua.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Ukraine - Odessa (UDP),ua.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 United Arab Emirates - Dubai (TCP),ae.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
@@ -432,14 +464,18 @@ USA - Arizona Phoenix (TCP),az.us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USE
 USA - Arizona Phoenix (UDP),az.us.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Arkansas Magnolia (TCP),ar.us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Arkansas Magnolia (UDP),ar.us.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-USA - California Los Angeles (TCP),ca.us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-USA - California Los Angeles (UDP),ca.us.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+USA - California Los Angeles (TCP),lax-ca-us.prcdn.net,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+USA - California Los Angeles (UDP),lax-ca-us.prcdn.net,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+USA - California San Jose (TCP),sjc-ca-us.prcdn.net,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+USA - California San Jose (UDP),sjc-ca-us.prcdn.net,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Connecticut Trumbull (TCP),ct.us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Connecticut Trumbull (UDP),ct.us.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Delaware Wilmington (TCP),de.us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Delaware Wilmington (UDP),de.us.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-USA - Florida Miami (TCP),fl.us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-USA - Florida Miami (UDP),fl.us.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+USA - Florida Miami (TCP),mia-fl-us.prcdn.net,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+USA - Florida Miami (UDP),mia-fl-us.prcdn.net,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+USA - Florida Jacksonville (TCP),jax-fl-us.prcdn.net,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+USA - Florida Jacksonville (UDP),jax-fl-us.prcdn.net,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Georgia Atlanta (TCP),ga.us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Georgia Atlanta (UDP),ga.us.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Hawaii Honolulu (TCP),hi.us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
@@ -470,10 +506,10 @@ USA - Michigan Lansing (TCP),mi.us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #US
 USA - Michigan Lansing (UDP),mi.us.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Minnesota Saint Paul (TCP),mn.us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Minnesota Saint Paul (UDP),mn.us.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-USA - Mississippi Louisville (TCP),ms.us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-USA - Mississippi Louisville (UDP),ms.us.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-USA - Missouri Kansas City (TCP),mo.us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-USA - Missouri Kansas City (UDP),mo.us.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+USA - Mississippi Jackson (TCP),jan-ms-us.prcdn.net,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+USA - Mississippi Jackson (UDP),jan-ms-us.prcdn.net,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+USA - Missouri St Louis (TCP),syt-mo-us.prcdn.net,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+USA - Missouri St Louis (UDP),syt-mo-us.prcdn.net,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Montana Billings (TCP),mt.us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Montana Billings (UDP),mt.us.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Nebraska Omaha (TCP),ne.us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
@@ -494,26 +530,28 @@ USA - Ohio Columbus (TCP),oh.us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERK
 USA - Ohio Columbus (UDP),oh.us.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Oklahoma Oklahoma City (TCP),ok.us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Oklahoma Oklahoma City (UDP),ok.us.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-USA - Pennsylvania Wilkes- Barre (TCP),pa.us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-USA - Pennsylvania Wilkes- Barre (UDP),pa.us.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+USA - Oregon Portland (TCP),pdx-or-us.prcdn.net,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+USA - Oregon Portland (UDP),pdx-or-us.prcdn.net,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+USA - Pennsylvania Scranton (TCP),pa.us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+USA - Pennsylvania Scranton (UDP),pa.us.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Rhode Island Providence (TCP),ri.us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Rhode Island Providence (UDP),ri.us.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - South Carolina Columbia (TCP),sc.us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - South Carolina Columbia (UDP),sc.us.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - South Dakota Sioux Falls (TCP),sd.us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - South Dakota Sioux Falls (UDP),sd.us.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-USA - (TCP),us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Tennessee Nashville (TCP),tn.us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Tennessee Nashville (UDP),tn.us.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Texas Dallas (TCP),tx.us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Texas Dallas (UDP),tx.us.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
-USA - (UDP),us.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Utah Salt Lake City (TCP),ut.us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Utah Salt Lake City (UDP),ut.us.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Vermont Rutland (TCP),vt.us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Vermont Rutland (UDP),vt.us.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Virginia Ashburn (TCP),va.us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Virginia Ashburn (UDP),va.us.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+USA - Washington DC (TCP),was-dc-us.prcdn.net,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+USA - Washington DC (UDP),was-dc-us.prcdn.net,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Washington Seattle (TCP),wa.us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Washington Seattle (UDP),wa.us.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - West Virginia Philippi (TCP),wv.us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
@@ -522,6 +560,14 @@ USA - Wisconsin Madison (TCP),wi.us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #U
 USA - Wisconsin Madison (UDP),wi.us.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Wyoming Cheyenne (TCP),wy.us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 USA - Wyoming Cheyenne (UDP),wy.us.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+USA - USA Virtual CA in Manhattan (TCP),ca-nyc-ny-us.prcdn.net,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+USA - USA Virtual CA in Manhattan (UDP),ca-nyc-ny-us.prcdn.net,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+USA - USA Virtual DE in Manhattan (TCP),de-nyc-ny-us.prcdn.net,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+USA - USA Virtual DE in Manhattan (UDP),de-nyc-ny-us.prcdn.net,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+USA - USA Virtual GB in Manhattan (TCP),gb-nyc-ny-us.prcdn.net,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+USA - USA Virtual GB in Manhattan (UDP),gb-nyc-ny-us.prcdn.net,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+USA - USA (TCP),us.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
+USA - USA (UDP),us.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Uzbekistan - Samarkand (TCP),uz.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Uzbekistan - Samarkand (UDP),uz.hma.rocks,udp,553,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
 Vanuatu - Loltong (TCP),vu.hma.rocks,tcp,443,#USERCERT=#PATHuser.crt #USERKEY=#PATHuser.key
