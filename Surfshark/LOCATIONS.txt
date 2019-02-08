@@ -1,0 +1,48 @@
+NZ Auckland (UDP),nz-akl.prod.surfshark.com,udp,1194
+NZ Auckland (TCP),nz-akl.prod.surfshark.com,tcp,1443
+NZ Auckland (UDP),nz-akl.prod.surfshark.com,udp,1194
+NZ Auckland (TCP),nz-akl.prod.surfshark.com,tcp,1443
+NZ Auckland (UDP),nz-akl.prod.surfshark.com,udp,1194
+NZ Auckland (TCP),nz-akl.prod.surfshark.com,tcp,1443
+ES Spain (UDP),es-mad.prod.surfshark.com,udp,1194
+ES Spain (TCP),es-mad.prod.surfshark.com,tcp,1443
+ZA South Africa (UDP),za-jnb.prod.surfshark.com,udp,1194
+ZA South Africa (TCP),za-jnb.prod.surfshark.com,tcp,1443
+KR South Korea (UDP),kr-seo.prod.surfshark.com,udp,1194
+KR South Korea (TCP),kr-seo.prod.surfshark.com,tcp,1443
+SE Sweden (UDP),se-sto.prod.surfshark.com,udp,1194
+SE Sweden (TCP),se-sto.prod.surfshark.com,tcp,1443
+CH Switzerland (UDP),ch-zur.prod.surfshark.com,udp,1194
+CH Switzerland (TCP),ch-zur.prod.surfshark.com,tcp,1443
+TR Turkey (UDP),tr-bur.prod.surfshark.com,udp,1194
+TR Turkey (TCP),tr-bur.prod.surfshark.com,tcp,1443
+UK London (UDP),uk-lon.prod.surfshark.com,udp,1194
+UK London (TCP),uk-lon.prod.surfshark.com,tcp,1443
+UK Manchester (UDP),uk-man.prod.surfshark.com,udp,1194
+UK Manchester (TCP),uk-man.prod.surfshark.com,tcp,1443
+US Atlanta (UDP),us-atl.prod.surfshark.com,udp,1194
+US Atlanta (TCP),us-atl.prod.surfshark.com,tcp,1443
+US Buffalo (UDP),us-buf.prod.surfshark.com,udp,1194
+US Buffalo (TCP),us-buf.prod.surfshark.com,tcp,1443
+US Chicago (UDP),us-chi.prod.surfshark.com,udp,1194
+US Chicago (TCP),us-chi.prod.surfshark.com,tcp,1443
+US Dallas (UDP),us-dal.prod.surfshark.com,udp,1194
+US Dallas (TCP),us-dal.prod.surfshark.com,tcp,1443
+US Manassas (UDP),us-mnz.prod.surfshark.com,udp,1194
+US Manassas (TCP),us-mnz.prod.surfshark.com,tcp,1443
+US Miami (UDP),us-mia.prod.surfshark.com,udp,1194
+US Miami (TCP),us-mia.prod.surfshark.com,tcp,1443
+US New York City (UDP),us-nyc.prod.surfshark.com,udp,1194
+US New York City (TCP),us-nyc.prod.surfshark.com,tcp,1443
+US Las Vegas (UDP),us-las.prod.surfshark.com,udp,1194
+US Las Vegas (TCP),us-las.prod.surfshark.com,tcp,1443
+US Los Angeles (UDP),us-lax.prod.surfshark.com,udp,1194
+US Los Angeles (TCP),us-lax.prod.surfshark.com,tcp,1443
+US Phoenix (UDP),us-phx.prod.surfshark.com,udp,1194
+US Phoenix (TCP),us-phx.prod.surfshark.com,tcp,1443
+US San Francisco (UDP),us-sfo.prod.surfshark.com,udp,1194
+US San Francisco (TCP),us-sfo.prod.surfshark.com,tcp,1443
+US Seattle (UDP),us-sea.prod.surfshark.com,udp,1194
+US Seattle (TCP),us-sea.prod.surfshark.com,tcp,1443
+VN Vietnam (UDP),vn-hcm.prod.surfshark.com,udp,1194
+VN Vietnam (TCP),vn-hcm.prod.surfshark.com,tcp,1443
