@@ -12,7 +12,6 @@ ca #CERT
 tls-auth #TLSKEY 1
 cipher AES-256-CBC
 auth SHA512
-comp-lzo
 verb 3
 pull
 fast-io
