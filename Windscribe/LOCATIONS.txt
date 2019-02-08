@@ -2,6 +2,8 @@ United States East (UDP),us-east.windscribe.com,udp,443
 United States East (TCP),us-east.windscribe.com,tcp,443
 United States West (UDP),us-west.windscribe.com,udp,443
 United States West (TCP),us-west.windscribe.com,tcp,443
+United States Windflix US (UDP),wf-us.windscribe.com,udp,1194
+United States Windflix US (TCP),wf-us.windscribe.com,tcp,443
 Canada (UDP),ca.windscribe.com,udp,443
 Canada (TCP),ca.windscribe.com,tcp,443
 United Kingdom (UDP),uk.windscribe.com,udp,443
