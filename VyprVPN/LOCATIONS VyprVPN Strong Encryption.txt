@@ -15,7 +15,7 @@ Czech Republic (UDP),cz1.vyprvpn.com,udp,443
 Denmark (UDP),dk1.vyprvpn.com,udp,443
 Dubai (UDP),ae1.vyprvpn.com,udp,443
 Egypt (UDP),eg1.vyprvpn.com,udp,443
-El Salvador (UDP),sv1.vyprvpn.com,udp,443
+SV El Salvador (UDP),sv1.vyprvpn.com,udp,443
 Finland (UDP),fi1.vyprvpn.com,udp,443
 France (UDP),fr1.vyprvpn.com,udp,443
 Germany (UDP),de1.vyprvpn.com,udp,443
