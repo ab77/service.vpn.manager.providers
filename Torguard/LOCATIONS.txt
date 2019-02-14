@@ -95,6 +95,7 @@ South Africa (TCP),za.torguardvpnaccess.com,tcp,1912,#REMOVE=1
 South Korea (UDP),sk.torguardvpnaccess.com,udp,1912
 South Korea (TCP),sk.torguardvpnaccess.com,tcp,1912,#REMOVE=1
 Spain (UDP),sp.torguardvpnaccess.com,udp,1912
+Static IP (UDP),38.142.116.242,udp,1215
 Spain (TCP),sp.torguardvpnaccess.com,tcp,1912,#REMOVE=1
 Sweden - Stockholm (UDP),swe.torguardvpnaccess.com,udp,1912
 Sweden - Stockholm (TCP),swe.torguardvpnaccess.com,tcp,1912,#REMOVE=1
