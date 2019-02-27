@@ -1,0 +1,19 @@
+client
+dev tun
+proto #PROTO
+remote #SERVER #PORT
+persist-key
+persist-remote-ip
+nobind
+ca #CERT
+tls-auth #TLSKEY 1
+remote-cert-tls server
+cipher AES-256-CBC
+resolv-retry infinite
+auth-nocache
+keepalive 10 30
+sndbuf 0
+rcvbuf 0
+comp-lzo
+verb 2
+auth-user-pass #PASS
