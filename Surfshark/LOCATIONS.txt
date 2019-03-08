@@ -26,14 +26,16 @@ CA Canada Vancouver (UDP),ca-van.prod.surfshark.com,udp,1194
 CA Canada Vancouver (TCP),ca-van.prod.surfshark.com,tcp,1443
 CL Chile (UDP),cl-san.prod.surfshark.com,udp,1194
 CL Chile (TCP),cl-san.prod.surfshark.com,tcp,1443
-CO Colombia (UDP),co-bog.prod.surfshark.com,udp,1194
-CO Colombia (TCP),co-bog.prod.surfshark.com,tcp,1443
 CR Costa Rica (UDP),cr-sjn.prod.surfshark.com,udp,1194
 CR Costa Rica (TCP),cr-sjn.prod.surfshark.com,tcp,1443
 HR Croatia (UDP),hr-zag.prod.surfshark.com,udp,1194
 HR Croatia (TCP),hr-zag.prod.surfshark.com,tcp,1443
+CY Cyprus (UDP),cy-nic.prod.surfshark.com,udp,1194
+CY Cyprus (TCP),cy-nic.prod.surfshark.com,tcp,1443
 CZ Czech Republic (UDP),cz-prg.prod.surfshark.com,udp,1194
 CZ Czech Republic (TCP),cz-prg.prod.surfshark.com,tcp,1443
+DK Denmark (UDP),dk-cph.prod.surfshark.com,udp,1194
+DK Denmark (TCP),dk-cph.prod.surfshark.com,tcp,1443
 DE Germany Frankfurt (UDP),de-fra.prod.surfshark.com,udp,1194
 DE Germany Frankfurt (TCP),de-fra.prod.surfshark.com,tcp,1443
 DE Germany Virtual UK (UDP),de-uk.prod.surfshark.com,udp,1194
@@ -70,10 +72,6 @@ JP Japan (UDP),jp-tok.prod.surfshark.com,udp,1194
 JP Japan (TCP),jp-tok.prod.surfshark.com,tcp,1443
 LV Latvia (UDP),lv-rig.prod.surfshark.com,udp,1194
 LV Latvia (TCP),lv-rig.prod.surfshark.com,tcp,1443
-LT Lithuania (UDP),lt-vno.prod.surfshark.com,udp,1194
-LT Lithuania (TCP),lt-vno.prod.surfshark.com,tcp,1443
-LU Luxembourg (UDP),lu-ste.prod.surfshark.com,udp,1194
-LU Luxembourg (TCP),lu-ste.prod.surfshark.com,tcp,1443
 MD Moldova (UDP),md-chi.prod.surfshark.com,udp,1194
 MD Moldova (TCP),md-chi.prod.surfshark.com,tcp,1443
 MY Malaysia (UDP),my-kul.prod.surfshark.com,udp,1194
@@ -88,8 +86,6 @@ NO Norway (UDP),no-osl.prod.surfshark.com,udp,1194
 NO Norway (TCP),no-osl.prod.surfshark.com,tcp,1443
 PL Poland Gdansk (UDP),pl-gdn.prod.surfshark.com,udp,1194
 PL Poland Gdansk (TCP),pl-gdn.prod.surfshark.com,tcp,1443
-PL Poland Warsaw (UDP),pl-waw.prod.surfshark.com,udp,1194
-PL Poland Warsaw (TCP),pl-waw.prod.surfshark.com,tcp,1443
 PT Portugal (UDP),pt-lou.prod.surfshark.com,udp,1194
 PT Portugal (TCP),pt-lou.prod.surfshark.com,tcp,1443
 RO Romania (UDP),ro-buc.prod.surfshark.com,udp,1194
@@ -114,10 +110,12 @@ CH Switzerland (UDP),ch-zur.prod.surfshark.com,udp,1194
 CH Switzerland (TCP),ch-zur.prod.surfshark.com,tcp,1443
 TR Turkey (UDP),tr-bur.prod.surfshark.com,udp,1194
 TR Turkey (TCP),tr-bur.prod.surfshark.com,tcp,1443
-UK London (UDP),uk-lon.prod.surfshark.com,udp,1194
-UK London (TCP),uk-lon.prod.surfshark.com,tcp,1443
-UK Manchester (UDP),uk-man.prod.surfshark.com,udp,1194
-UK Manchester (TCP),uk-man.prod.surfshark.com,tcp,1443
+UA Ukraine (UDP),ua-iev.prod.surfshark.com,udp,1194
+UA Ukraine (TCP),ua-iev.prod.surfshark.com,tcp,1443
+GB London (UDP),uk-lon.prod.surfshark.com,udp,1194
+GB London (TCP),uk-lon.prod.surfshark.com,tcp,1443
+GB Manchester (UDP),uk-man.prod.surfshark.com,udp,1194
+GB Manchester (TCP),uk-man.prod.surfshark.com,tcp,1443
 US Atlanta (UDP),us-atl.prod.surfshark.com,udp,1194
 US Atlanta (TCP),us-atl.prod.surfshark.com,tcp,1443
 US Buffalo (UDP),us-buf.prod.surfshark.com,udp,1194
