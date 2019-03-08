@@ -43,6 +43,10 @@
             "value": ["ExpressVPN"]
         },
         {
+            "name": "surf",
+            "value": ["Surfshark"]
+        },
+        {
             "name": "goldenfrog",
             "value": [
                 "VyprVPN",
