@@ -1,7 +1,5 @@
 1515061151
-400 8
-LOCATIONS Default Encryption (AES-128).txt
-LOCATIONS Strong Encryption (AES-256).txt
+400 6
 TEMPLATE.txt
 ca.rsa.2048.crt
 ca.rsa.4096.crt
