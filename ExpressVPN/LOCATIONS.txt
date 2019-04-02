@@ -250,6 +250,8 @@ USA - Los Angeles - 3 (UDP),usa-losangeles-3-ca-version-2.expressnetw.com,udp,11
 USA - Los Angeles - 3 (TCP),usa-losangeles-3-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 USA - Los Angeles - 4 (UDP),usa-los-angeles-4-ca-version-2.expressnetw.com,udp,1195
 USA - Los Angeles - 4 (TCP),usa-los-angeles-4-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
+USA - Los Angeles - 5 (UDP),usa-los-angeles-5-ca-version-2.expressnetw.com,udp,1195
+USA - Los Angeles - 5 (TCP),usa-los-angeles-5-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 USA - Los Angeles (UDP),usa-losangeles-ca-version-2.expressnetw.com,udp,1195
 USA - Los Angeles (TCP),usa-losangeles-ca-version-2.expressnetw.com,tcp-client,443,#REMOVE=1
 USA - Miami (UDP),usa-miami-ca-version-2.expressnetw.com,udp,1195
