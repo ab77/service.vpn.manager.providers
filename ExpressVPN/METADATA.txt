@@ -4,3 +4,5 @@ LOCATIONS.txt
 TEMPLATE.txt
 ca.crt
 ta.key
+user.crt
+user.key
