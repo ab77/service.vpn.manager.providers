@@ -1,1 +1,0 @@
-Global,global.safelabs.net,udp,1194
