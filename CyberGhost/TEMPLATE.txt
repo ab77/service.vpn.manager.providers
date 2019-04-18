@@ -3,7 +3,7 @@ proto #PROTO
 remote #SERVER #PORT
 dev tun
 auth-user-pass #PASS
-resolv-retry 30 
+resolv-retry infinite 
 redirect-gateway def1
 persist-key
 persist-tun
@@ -12,12 +12,12 @@ cipher AES-256-CBC
 auth sha256
 script-security 2
 remote-cert-tls server
-route-delay 5
+route-delay 2
 #REMOVE1tun-mtu 1500 
 #REMOVE1fragment 1300
-#REMOVE1mssfix 1300
+#REMOVE1mssfix 1200
 verb 4
-comp-lzo
+comp-lzo no
 ca #CERT
 cert #USERCERT
 key #USERKEY
