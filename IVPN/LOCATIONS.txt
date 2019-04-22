@@ -33,5 +33,5 @@ USA - New Jersey (TCP),us-nj.gw.ivpn.net,tcp-client,443,#USER1=us-nj
 USA - New Jersey (UDP),us-nj.gw.ivpn.net,udp,2049,#USER1=us-nj
 USA - Salt Lake City (TCP),us-ut.gw.ivpn.net,tcp-client,443,#USER1=us-ut
 USA - Salt Lake City (UDP),us-ut.gw.ivpn.net,udp,2049,#USER1=us-ut
-USA - Washington D.C. (TCP),us-dc1.gw.ivpn.net,tcp-client,443,#USER1=us-ut
-USA - Washington D.C. (UDP),us-dc1.gw.ivpn.net,udp,2049,#USER1=us-ut
+USA - Washington D.C. (TCP),US-DC1.GW.IVPN.NET,tcp-client,443,#USER1=us-ut
+USA - Washington D.C. (UDP),US-DC1.GW.IVPN.NET,udp,2049,#USER1=us-ut
