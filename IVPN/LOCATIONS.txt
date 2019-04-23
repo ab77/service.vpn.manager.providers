@@ -1,7 +1,7 @@
 Austria (TCP),AT1.GW.IVPN.NET,tcp-client,443,#USER1=at
 Austria (UDP),AT1.GW.IVPN.NET,udp,2049,#USER1=at
-Australia, NSW (TCP),AU-NSW1.GW.IVPN.NET,tcp-client,443,#USER1=au
-Australia, NSW (UDP),AU-NSW1.GW.IVPN.NET,udp,2049,#USER1=au
+Australia (TCP),AU-NSW1.GW.IVPN.NET,tcp-client,443,#USER1=au
+Australia (UDP),AU-NSW1.GW.IVPN.NET,udp,2049,#USER1=au
 Belgium (TCP),BE1.GW.IVPN.NET,tcp-client,443,#USER1=be
 Belgium (UDP),BE1.GW.IVPN.NET,udp,2049,#USER1=be
 Bulgaria (TCP),BG1.GW.IVPN.NET,tcp-client,443,#USER1=bg
