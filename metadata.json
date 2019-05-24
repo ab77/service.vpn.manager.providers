@@ -40,6 +40,10 @@
             "value": ["PIA"]
         },
         {
+            "name": "hide",
+            "value": ["HMA"]
+        },
+        {
             "name": "express",
             "value": ["ExpressVPN"]
         },
