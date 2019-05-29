@@ -11,7 +11,6 @@ cipher AES-256-CBC
 #REMOVE2route-method exe
 #REMOVE2route-delay 2
 #REMOVE2float
-#REMOVE3route 0.0.0.0 0.0.0.0
 auth-user-pass #PASS
 #REMOVE2auth-retry interact
 #REMOVE2ifconfig-nowarn
