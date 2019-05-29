@@ -10,7 +10,6 @@ cipher AES-256-CBC
 #REMOVE2mute 20
 #REMOVE2route-method exe
 #REMOVE2route-delay 2
-#REMOVE2route 0.0.0.0 0.0.0.0
 #REMOVE2float
 auth-user-pass #PASS
 #REMOVE2auth-retry interact
