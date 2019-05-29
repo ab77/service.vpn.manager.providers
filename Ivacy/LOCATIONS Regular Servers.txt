@@ -1,48 +1,48 @@
 Australia (TCP),au1-ovpn-tcp.ivacy.net,tcp,80,#REMOVE=1
-Australia (UDP),au1-ovpn-udp.ivacy.net,udp,53,#REMOVE=1,#REMOVE=3
+Australia (UDP),au1-ovpn-udp.ivacy.net,udp,53,#REMOVE=1 #REMOVE=3
 USA - Chicago (TCP),usil1-ovpn-tcp.ivacy.net,tcp,80,#REMOVE=1
-USA - Chicago (UDP),usil1-ovpn-udp.ivacy.net,udp,53,#REMOVE=1,#REMOVE=3
+USA - Chicago (UDP),usil1-ovpn-udp.ivacy.net,udp,53,#REMOVE=1 #REMOVE=3
 USA - New York (TCP),usny1-ovpn-tcp.ivacy.net,tcp,80,#REMOVE=1
-USA - New York (UDP),usny1-ovpn-udp.ivacy.net,udp,53,#REMOVE=1,#REMOVE=3
+USA - New York (UDP),usny1-ovpn-udp.ivacy.net,udp,53,#REMOVE=1 #REMOVE=3
 USA - New Jersey (TCP),usnj2-ovpn-tcp.ivacy.net,tcp,80,#REMOVE=1
-USA - New Jersey (UDP),usnj2-ovpn-udp.ivacy.net,udp,53,#REMOVE=1,#REMOVE=3
+USA - New Jersey (UDP),usnj2-ovpn-udp.ivacy.net,udp,53,#REMOVE=1 #REMOVE=3
 USA - Houston (TCP),ustx1-ovpn-tcp.ivacy.net,tcp,80,#REMOVE=1
-USA - Houston (UDP),ustx1-ovpn-udp.ivacy.net,udp,53,#REMOVE=1,#REMOVE=3
+USA - Houston (UDP),ustx1-ovpn-udp.ivacy.net,udp,53,#REMOVE=1 #REMOVE=3
 USA - Los Angeles (TCP),usla1-ovpn-tcp.ivacy.net,tcp,80,#REMOVE=1
-USA - Los Angeles (UDP),usla1-ovpn-udp.ivacy.net,udp,53,#REMOVE=1,#REMOVE=3
+USA - Los Angeles (UDP),usla1-ovpn-udp.ivacy.net,udp,53,#REMOVE=1 #REMOVE=3
 Brazil (TCP),br1-ovpn-tcp.ivacy.net,tcp,80,#REMOVE=1
-Brazil (UDP),br1-ovpn-udp.ivacy.net,udp,53,#REMOVE=1,#REMOVE=3
+Brazil (UDP),br1-ovpn-udp.ivacy.net,udp,53,#REMOVE=1 #REMOVE=3
 Netherlands (TCP),netherlands-tcp.ivacy.net,tcp,80,#REMOVE=1
-Netherlands (UDP),netherlands-udp.ivacy.net,udp,53,#REMOVE=1,#REMOVE=3
+Netherlands (UDP),netherlands-udp.ivacy.net,udp,53,#REMOVE=1 #REMOVE=3
 United kingdom - London	(TCP),uk1-ovpn-tcp.ivacy.net,tcp,80,#REMOVE=1
-United kingdom - London (UDP),uk1-ovpn-udp.ivacy.net,udp,53,#REMOVE=1,#REMOVE=3
+United kingdom - London (UDP),uk1-ovpn-udp.ivacy.net,udp,53,#REMOVE=1 #REMOVE=3
 United kingdom - Maidenhead (TCP),ukm1-ovpn-tcp.ivacy.net,tcp,80,#REMOVE=1
-United Kingdom - Maidenhead (UDP),ukm1-ovpn-udp.ivacy.net,udp,53,#REMOVE=1,#REMOVE=3
+United Kingdom - Maidenhead (UDP),ukm1-ovpn-udp.ivacy.net,udp,53,#REMOVE=1 #REMOVE=3
 Russia (TCP),ru1-ovpn-tcp.ivacy.net,tcp,80,#REMOVE=1
-Russia (UDP),ru1-ovpn-udp.ivacy.net,udp,53,#REMOVE=1,#REMOVE=3
+Russia (UDP),ru1-ovpn-udp.ivacy.net,udp,53,#REMOVE=1 #REMOVE=3
 France (TCP),fr1-ovpn-tcp.ivacy.net,tcp,80,#REMOVE=1
-France (UDP),fr1-ovpn-udp.ivacy.net,udp,53,#REMOVE=1,#REMOVE=3
+France (UDP),fr1-ovpn-udp.ivacy.net,udp,53,#REMOVE=1 #REMOVE=3
 Canada (TCP),cav1-ovpn-tcp.ivacy.net,tcp,80,#REMOVE=1
-Canada (UDP),cav1-ovpn-udp.ivacy.net,udp,53,#REMOVE=1,#REMOVE=3
+Canada (UDP),cav1-ovpn-udp.ivacy.net,udp,53,#REMOVE=1 #REMOVE=3
 Canada (TCP),caq1-ovpn-tcp.ivacy.net,tcp,80,#REMOVE=1
-Canada (UDP),caq1-ovpn-udp.ivacy.net,udp,53,#REMOVE=1,#REMOVE=3
+Canada (UDP),caq1-ovpn-udp.ivacy.net,udp,53,#REMOVE=1 #REMOVE=3
 Germany	(TCP),germany-tcp.ivacy.net,tcp,80,#REMOVE=1
-Germany (UDP),germany-udp.ivacy.net,udp,53,#REMOVE=1,#REMOVE=3
+Germany (UDP),germany-udp.ivacy.net,udp,53,#REMOVE=1 #REMOVE=3
 Austria	(TCP),at2-ovpn-tcp.dns2use.com,tcp,80,#REMOVE=1
-Austria (UDP),at2-ovpn-udp.dns2use.com,udp,53,#REMOVE=1,#REMOVE=3
+Austria (UDP),at2-ovpn-udp.dns2use.com,udp,53,#REMOVE=1 #REMOVE=3
 Belgium	(TCP),be2-ovpn-tcp.dns2use.com,tcp,80,#REMOVE=1
-Belgium (UDP),be2-ovpn-udp.dns2use.com,udp,53,#REMOVE=1,#REMOVE=3
+Belgium (UDP),be2-ovpn-udp.dns2use.com,udp,53,#REMOVE=1 #REMOVE=3
 Denmark	(TCP),dk2-ovpn-tcp.dns2use.com,tcp,80,#REMOVE=1
-Denmark (UDP),dk2-ovpn-udp.dns2use.com,udp,53,#REMOVE=1,#REMOVE=3
+Denmark (UDP),dk2-ovpn-udp.dns2use.com,udp,53,#REMOVE=1 #REMOVE=3
 Italy (TCP),it2-ovpn-tcp.dns2use.com,tcp,80,#REMOVE=1
-Italy (UDP),it2-ovpn-udp.dns2use.com,udp,53,#REMOVE=1,#REMOVE=3
+Italy (UDP),it2-ovpn-udp.dns2use.com,udp,53,#REMOVE=1 #REMOVE=3
 Luxembourg (TCP),lu2-ovpn-tcp.dns2use.com,tcp,80,#REMOVE=1
-Luxembourg (UDP),lu2-ovpn-udp.dns2use.com,udp,53,#REMOVE=1,#REMOVE=3
+Luxembourg (UDP),lu2-ovpn-udp.dns2use.com,udp,53,#REMOVE=1 #REMOVE=3
 Romania	(TCP),ro2-ovpn-tcp.dns2use.com,tcp,80,#REMOVE=1
-Romania (UDP),ro2-ovpn-udp.dns2use.com,udp,53,#REMOVE=1,#REMOVE=3
+Romania (UDP),ro2-ovpn-udp.dns2use.com,udp,53,#REMOVE=1 #REMOVE=3
 Spain (TCP),es2-ovpn-udp.ivacy.net,tcp,80,#REMOVE=1
-Spain (UDP),es2-ovpn-tcp.ivacy.net,udp,53,#REMOVE=1,#REMOVE=3
+Spain (UDP),es2-ovpn-tcp.ivacy.net,udp,53,#REMOVE=1 #REMOVE=3
 Sweden (TCP),se2-ovpn-tcp.dns2use.com,tcp,80,#REMOVE=1
-Sweden (UDP),se2-ovpn-udp.dns2use.com,udp,53,#REMOVE=1,#REMOVE=3
+Sweden (UDP),se2-ovpn-udp.dns2use.com,udp,53,#REMOVE=1 #REMOVE=3
 Switzerland (TCP),ch2-ovpn-tcp.dns2use.com,tcp,80,#REMOVE=1
-Switzerland (UDP),ch2-ovpn-udp.dns2use.com,udp,53,#REMOVE=1,#REMOVE=3
+Switzerland (UDP),ch2-ovpn-udp.dns2use.com,udp,53,#REMOVE=1 #REMOVE=3
