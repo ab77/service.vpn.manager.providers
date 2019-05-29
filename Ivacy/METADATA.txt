@@ -4,4 +4,6 @@ LOCATIONS Regular Servers.txt
 LOCATIONS China Servers.txt
 TEMPLATE.txt
 ca.crt
+user.crt
+user.key
 ta.key
