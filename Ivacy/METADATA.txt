@@ -1,6 +1,7 @@
 1559066456
 400 5
 LOCATIONS.txt
+LOCATIONS - China.txt
 TEMPLATE.txt
 ca.crt
 ta.key
