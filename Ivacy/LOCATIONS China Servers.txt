@@ -1,13 +1,13 @@
-Africa (UDP),za1-cn1.dns2use.com,udp,33057,#REMOVE=2
-Australia (UDP),au2-ovpn.dns2use.com,udp,53,#REMOVE=2
-Belgium (UDP),be2-ovpn.dns2use.com,udp,53,#REMOVE=2
-Ontario (UDP,cato2-ovpn.dns2use.com,udp,53,#REMOVE=2
-France (UDP),fr2-ovpn.dns2use.com,udp,53,#REMOVE=2
-Hong Kong (UDP),hk2-ovpn.dns2use.com,udp,53,#REMOVE=2
-Malaysia (UDP),my2-ovpn.dns2use.com,udp,53,#REMOVE=2
-Netherlands (UDP),nl2-ovpn.dns2use.com,udp,53,#REMOVE=2
-USA (UDP),us2-ovpn.dns2use.com,udp,53,#REMOVE=2
-London (UDP),ukl2-ovpn.dns2use.com,udp,53,#REMOVE=2
-Switzerland (UDP),ch2-ovpn.dns2use.com,udp,53,#REMOVE=2
-Sweden (UDP),se2-ovpn.dns2use.com,udp,53,#REMOVE=2
-Singapore (UDP),sg2-ovpn.dns2use.com,udp,53,#REMOVE=2
+Africa (UDP),za1-cn1.dns2use.com,udp,33057,#REMOVE=2,#REMOVE=3
+Australia (UDP),au2-ovpn.dns2use.com,udp,53,#REMOVE=2,#REMOVE=3
+Belgium (UDP),be2-ovpn.dns2use.com,udp,53,#REMOVE=2,#REMOVE=3
+Ontario (UDP,cato2-ovpn.dns2use.com,udp,53,#REMOVE=2,#REMOVE=3
+France (UDP),fr2-ovpn.dns2use.com,udp,53,#REMOVE=2,#REMOVE=3
+Hong Kong (UDP),hk2-ovpn.dns2use.com,udp,53,#REMOVE=2,#REMOVE=3
+Malaysia (UDP),my2-ovpn.dns2use.com,udp,53,#REMOVE=2,#REMOVE=3
+Netherlands (UDP),nl2-ovpn.dns2use.com,udp,53,#REMOVE=2,#REMOVE=3
+USA (UDP),us2-ovpn.dns2use.com,udp,53,#REMOVE=2,#REMOVE=3
+London (UDP),ukl2-ovpn.dns2use.com,udp,53,#REMOVE=2,#REMOVE=3
+Switzerland (UDP),ch2-ovpn.dns2use.com,udp,53,#REMOVE=2,#REMOVE=3
+Sweden (UDP),se2-ovpn.dns2use.com,udp,53,#REMOVE=2,#REMOVE=3
+Singapore (UDP),sg2-ovpn.dns2use.com,udp,53,#REMOVE=2,#REMOVE=3
