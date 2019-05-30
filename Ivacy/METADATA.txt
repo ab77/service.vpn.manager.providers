@@ -1,9 +1,6 @@
-1559066456
+1559255509
 400 5
-LOCATIONS Regular Servers.txt
-LOCATIONS China Servers.txt
+LOCATIONS.txt
 TEMPLATE.txt
 ca.crt
-user.crt
-user.key
 ta.key
