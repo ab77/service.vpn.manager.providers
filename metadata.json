@@ -52,6 +52,13 @@
             "value": ["Surfshark"]
         },
         {
+            "name": "ivacy",
+            "value": [
+                "Ivacy",
+                "Ivacy-China"
+            ]
+        },
+        {
             "name": "goldenfrog",
             "value": [
                 "VyprVPN",
@@ -123,6 +130,10 @@
         {
             "provider": "IVPN",
             "link": "https://flashrouters.com/ivpn"
+        },
+                {
+            "provider": "Ivacy",
+            "link": "https://flashrouters.com/ivacy"
         },
         {
             "provider": "PrivateVPN",
