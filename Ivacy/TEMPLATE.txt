@@ -5,31 +5,15 @@ remote #SERVER #PORT
 persist-key
 persist-tun
 cipher AES-256-CBC
-#REMOVE2comp-lzo
-#REMOVE2verb 1
-#REMOVE2mute 20
-#REMOVE2route-method exe
-#REMOVE2route-delay 2
-#REMOVE2float
-#REMOVE3route 0.0.0.0 0.0.0.0
+comp-lzo
+verb 1
+mute 20
+route-method exe
+route-delay 2
+float
+#REMOVE1route 0.0.0.0 0.0.0.0
 auth-user-pass #PASS
-#REMOVE2auth-retry interact
-#REMOVE2ifconfig-nowarn
+auth-retry interact
+ifconfig-nowarn
 ca #CERT
 tls-auth #TLSKEY 1
-#REMOVE1cert #USERCERT
-#REMOVE1key #USERKEY
-#REMOVE1tun-mtu 48000
-#REMOVE1fragment 0
-#REMOVE1mssfix 0
-#REMOVE1remote-cert-tls server
-#REMOVE1cipher AES-256-GCM
-#REMOVE1tls-cipher TLS-ECDHE-RSA-WITH-AES-256-GCM-SHA384:TLS-ECDHE-ECDSA-WITH-AES-256-GCM-SHA384:TLS-ECDHE-RSA-WITH-AES-256-CBC-SHA384:TLS-ECDHE-ECDSA-WITH-AES-256-CBC-SHA384:TLS-DHE-RSA-WITH-AES-256-GCM-SHA384:TLS-DHE-RSA-WITH-AES-256-CBC-SHA256
-#REMOVE1route-method exe 
-#REMOVE1route-delay 2 
-#REMOVE1script-security 2
-#REMOVE1tls-version-min 1.2
-#REMOVE1explicit-exit-notify
-#REMOVE1connect-retry-max 3
-#REMOVE1connect-retry 3
-#REMOVE1resolv-retry 15
