@@ -6,7 +6,7 @@ CA - Canada (UDP),ca.blackbox.unzoner.com,udp,1194
 CA - Canada (TCP),ca.blackbox.unzoner.com,tcp,1194,#REMOVE=1
 ES - Spain (UDP),es.blackbox.unzoner.com,udp,1194
 ES - Spain (TCP),es.blackbox.unzoner.com,tcp,1194,#REMOVE=1
-UM - United States (Amazon Prime Video) (UDP),um.blackbox.unzoner.com,udp,1194
-UM - United States (Amazon Prime Video) (TCP),um.blackbox.unzoner.com,tcp,1194,#
+UM - United States Minor Outlying Islands (UDP),um.blackbox.unzoner.com,udp,1194
+UM - United States Minor Outlying Islands (TCP),um.blackbox.unzoner.com,tcp,1194,#REMOVE=1
 IT - Italy (UDP),it.blackbox.unzoner.com,udp,1194
 IT - Italy (TCP),it.blackbox.unzoner.com,tcp,1194,#REMOVE=1
