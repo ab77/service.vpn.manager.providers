@@ -13,3 +13,4 @@ auth-user-pass
 auth-retry nointeract
 redirect-gateway def1
 ca #CERT
+verify-x509-name #SERVER name
