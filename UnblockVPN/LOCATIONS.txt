@@ -1,0 +1,21 @@
+CA - Ontario,ca1.finevpn.com (CA1),tcp,443
+CZ - Prague,eu3.finevpn.com (CZ2),tcp,443
+CZ - Prague,eu.finevpn.com (CZ1),tcp,443
+DE - Frankfurt,eu13.finevpn.com (DE1),tcp,443
+GB - Coventry,eu12.finevpn.com (GB7),tcp,443
+GB - London,eu11.finevpn.com (GB6),tcp,443
+GB - Gosport,eu8.finevpn.com (GB5),tcp,443
+GB - London,eu7.finevpn.com (GB4),tcp,443
+GB - Gosport,eu6.finevpn.com (GB3),tcp,443
+GB - London,eu5.finevpn.com (GB2),tcp,443
+GB - Gosport,eu4.finevpn.com (GB1),tcp,443
+IL - Tel Aviv,il.finevpn.com (IL1),tcp,443
+NL - Amsterdam,eu10.finevpn.com (NL1),tcp,443
+SE - Stockholm,eu9.finevpn.com (SE1),tcp,443
+SK - Bratislava,eu2.finevpn.com (SK1),tcp,443
+US - New York,us6.finevpn.com (US6),tcp,443
+US - Los Angeles,us5.finevpn.com (US5),tcp,443
+US - Chicago,us4.finevpn.com (US4),tcp,443
+US - Dallas,us3.finevpn.com (US3),tcp,443
+US - New York,us2.finevpn.com (US2),tcp,443
+US - Denver,us.finevpn.com (US1),tcp,443
