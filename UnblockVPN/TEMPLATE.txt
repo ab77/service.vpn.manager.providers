@@ -1,0 +1,17 @@
+client
+dev tun
+remote #SERVER #PORT
+ignore-unknown-option ip-win32 dynamic 0
+ip-win32 dynamic 0
+nobind
+persist-key
+tls-client
+remote-cert-tls server
+verify-x509-name ca1.finevpn.com name
+verb 3
+cipher AES-256-CBC
+auth SHA1
+auth-user-pass
+auth-retry nointeract
+redirect-gateway def1
+ca #CERT
