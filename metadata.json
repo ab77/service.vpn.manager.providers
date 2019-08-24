@@ -24,6 +24,23 @@
             ]
         },
         {
+            "name": "guardian",
+            "value": [
+                "blackbox",
+                "NordVPN",
+                "IPVanish",
+                "Ivacy",
+                "Ivacy-China",
+                "ExpressVPN",
+                "PIA",
+                "PureVPN",
+                "VyprVPN",
+                "CyberGhost",
+                "HMA",
+                "Surfshark"
+            ]
+        },
+        {
             "name": "group2",
             "value": ["IPVanish"]
         },
@@ -70,138 +87,6 @@
         {
             "provider": "blackbox",
             "link": "http://unzoner.com"
-        },
-        {
-            "provider": "AirVPN",
-            "link": "https://flashrouters.com/airvpn"
-        },
-        {
-            "provider": "HideIPVPN",
-            "link": "https://flashrouters.com/hideipvpn"
-        },
-        {
-            "provider": "NordVPN",
-            "link": "https://flashrouters.com/nordvpn"
-        },
-        {
-            "provider": "VPN.ht",
-            "link": "https://flashrouters.com/vpnht"
-        },
-        {
-            "provider": "WiTopia",
-            "link": "https://flashrouters.com/witopia"
-        },
-        {
-            "provider": "HideMe",
-            "link": "https://flashrouters.com/hideme"
-        },
-        {
-            "provider": "PIA",
-            "link": "https://flashrouters.com/pia"
-        },
-        {
-            "provider": "SaferVPN",
-            "link": "https://flashrouters.com/safervpn"
-        },
-        {
-            "provider": "VPNArea",
-            "link": "https://flashrouters.com/vpnarea"
-        },
-        {
-            "provider": "Windscribe",
-            "link": "https://flashrouters.com/windscribe"
-        },
-        {
-            "provider": "IPVanish",
-            "link": "https://flashrouters.com/ipvanish"
-        },
-        {
-            "provider": "PerfectPrivacy",
-            "link": "https://flashrouters.com/perfectprivacy"
-        },
-        {
-            "provider": "SmartDNSProxy",
-            "link": "https://flashrouters.com/smartdnsproxy"
-        },
-        {
-            "provider": "VPNSecure",
-            "link": "https://flashrouters.com/vpnsecure"
-        },
-        {
-            "provider": "IVPN",
-            "link": "https://flashrouters.com/ivpn"
-        },
-                {
-            "provider": "Ivacy",
-            "link": "https://flashrouters.com/ivacy"
-        },
-        {
-            "provider": "PrivateVPN",
-            "link": "https://flashrouters.com/privatevpn"
-        },
-        {
-            "provider": "TorGuard",
-            "link": "https://flashrouters.com/torguard"
-        },
-        {
-            "provider": "VPNUnlimited",
-            "link": "https://flashrouters.com/vpnunlimited"
-        },
-        {
-            "provider": "ibVPN",
-            "link": "https://flashrouters.com/ibvpn"
-        },
-        {
-            "provider": "ExpressVPN",
-            "link": "https://flashrouters.com/expressvpn"
-        },
-        {
-            "provider": "ProtonVPN",
-            "link": "https://flashrouters.com/protonvpn"
-        },
-        {
-            "provider": "TotalVPN",
-            "link": "https://flashrouters.com/totalvpn"
-        },
-        {
-            "provider": "VanishedVPN",
-            "link": "https://flashrouters.com/vanishedvpn"
-        },
-        {
-            "provider": "HMA",
-            "link": "https://flashrouters.com/hma"
-        },
-        {
-            "provider": "LiquidVPN",
-            "link": "https://flashrouters.com/liquidvpn"
-        },
-        {
-            "provider": "PureVPN",
-            "link": "https://flashrouters.com/purevpn"
-        },
-        {
-            "provider": "VPN.ac",
-            "link": "https://flashrouters.com/vpnac"
-        },
-        {
-            "provider": "VyprVPN",
-            "link": "https://flashrouters.com/vyprvpn"
-        },
-        {
-            "provider": "proXPN",
-            "link": "https://flashrouters.com/proxpn"
-        },
-        {
-            "provider": "BTGuard",
-            "link": "https://flashrouters.com/btguard"
-        },
-        {
-            "provider": "BulletVPN",
-            "link": "https://flashrouters.com/bulletvpn"
-        },
-        {
-            "provider": "CyberGhost",
-            "link": "https://flashrouters.com/cyberghost"
         }
     ]
 }
