@@ -7,7 +7,7 @@ cert #USERCERT
 key #USERKEY
 askpass #USERPASS
 remote #SERVER #PORT
-cipher AES-128-CBC
+cipher DES-CBC
 verb 2
 mute 20
 comp-lzo
