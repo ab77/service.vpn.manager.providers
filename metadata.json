@@ -85,6 +85,10 @@
     ],
     "affiliate_links": [
         {
+            "provider": "default",
+            "link": "http://unzoner.com"
+        },
+        {
             "provider": "blackbox",
             "link": "http://unzoner.com"
         }
