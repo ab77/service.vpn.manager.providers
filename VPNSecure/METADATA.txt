@@ -3,4 +3,3 @@
 LOCATIONS.txt
 TEMPLATE.txt
 ca.crt
-dh.pem
