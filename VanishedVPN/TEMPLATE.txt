@@ -4,7 +4,7 @@ proto #PROTO
 remote #SERVER #PORT
 auth-user-pass #PASS
 nobind
-comp-lzo
+comp-lzo no
 persist-key
 persist-tun
 remote-cert-tls server
