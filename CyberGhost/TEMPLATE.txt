@@ -3,20 +3,21 @@ proto #PROTO
 remote #SERVER #PORT
 dev tun
 auth-user-pass #PASS
-resolv-retry infinite 
+resolv-retry 30 
 redirect-gateway def1
 persist-key
 persist-tun
 nobind
-cipher AES-128-GCM
-ncp-ciphers AES-128-GCM:AES-128-CBC:AES-256-GCM:AES-256-CBC
+cipher AES-256-CBC
 auth sha256
+ping-timer-rem
 script-security 2
 remote-cert-tls server
 route-delay 5
+#REMOVE1tun-mtu 1500 
+#REMOVE1fragment 1300
+#REMOVE1mssfix 1300
 verb 4
-pull-filter ignore "ifconfig-ipv6 "
-pull-filter ignore "route-ipv6 "
 ca #CERT
 cert #USERCERT
 key #USERKEY
